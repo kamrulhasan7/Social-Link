@@ -1,5 +1,7 @@
-| [Live Site](https://kamrulhasan7.github.io/Social-Link/)  |
-| --------------------------------------------------------  |
+| Feature        | Description            |
+| -------------- | ---------------------- |
+| 🌐 Live Demo   | [Visit Now](https://kamrulhasan7.github.io/Social-Link/)         |
+| 🚀 Built With  | HTML, CSS  |
 
 # Frontend Mentor - Social links profile
 
