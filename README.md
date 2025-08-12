@@ -1,6 +1,6 @@
 | Feature        | Description            |
 | -------------- | ---------------------- |
-| 🌐 Live Demo   | [Visit Now](https://kamrulhasan7.github.io/Social-Link/)         |
+| 🌐 Live Demo   | [Visit Now](https://kamrulhasanPro.github.io/Social-Link/)         |
 | 🚀 Built With  | HTML, CSS  |
 
 # Frontend Mentor - Social links profile
